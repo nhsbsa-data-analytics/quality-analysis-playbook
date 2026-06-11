@@ -41,9 +41,9 @@ This will ensure quality and consistency of analysis and support well-informed d
 
 This Playbook is based on:
  
-- [Government functional standard 010: analysis](https://assets.publishing.service.gov.uk/media/64e4cf0a4002ee000d560d5f/2023.02_GovS_010_Analysis_v2.1.pdf)
+- [Government functional standard 010: analysis](https://www.gov.uk/government/publications/government-analysis-functional-standard--2/government-functional-standard-govs-010-analysis)
 
-- [The Aqua Book: guidance on producing quality analysis for government](https://assets.publishing.service.gov.uk/media/5a7f3bb8e5274a2e87db49be/aqua_book_final_web.pdf) 
+- [The Aqua Book: guidance on producing quality analysis for government](https://www.gov.uk/guidance/the-aqua-book) 
 
 - [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
 
